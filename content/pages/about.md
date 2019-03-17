@@ -1,12 +1,9 @@
 ---
-title: "About me"
+title: "About"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I'm NYC-based web developer who is passionate about creating more enjoyable digital products. Currently, I am a Full Stack Engineer at 
+[Meetup](https://www.meetup.com/)
+        Previously, I led e-mail marketing at Jopwell (YC S15), wrangled data at [Columbia University's J-School](http://ledeprogram.com/)</a> and was awarded a #GIRLBOSS grant by Sophia Amoruso for my involvement with the Athena Digital Design web development agency.
+.
