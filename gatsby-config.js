@@ -166,7 +166,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#F7A046',
         display: 'standalone',
-        icon: 'static/photo.jpg'
+        icon: 'static/monicaoncomputer.svg'
       },
     },
     'gatsby-plugin-offline',

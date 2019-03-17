@@ -9,6 +9,7 @@ body {
   margin: 0;
   font-family: $typographic-font-family;
   color: $typographic-base-font-color;
+  background-color: $color-purple-eggshell;
   line-height: $typographic-base-line-height;
   font-size: $typographic-base-font-size;
   -ms-text-size-adjust: 100%;
@@ -26,6 +27,12 @@ h5,
 h6 {
   font-family: $typographic-font-family;
   font-weight: 600;
+  color: $color-dark-purple;
+  // background-image: linear-gradient(to right, #283486 0%, #4d71b9 99% 100%);
+  //   background-size: cover;
+  //   -webkit-background-clip: text;
+  //   -webkit-text-fill-color: transparent;
+  //   background-clip: text;
 }
 
 h1 {

@@ -2,12 +2,12 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  title: 'monica.dev',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  copyright: 'monica.dev © All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 5,
+  // googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
       label: 'Articles',
@@ -15,6 +15,7 @@ module.exports = {
     },
     {
       label: 'About me',
+      // path: 'http://aboutmonica.com/'
       path: '/pages/about'
     },
     {
@@ -23,16 +24,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Monica Powell',
+    photo: '/monicaoncomputer.svg',
+    bio: 'Product engineer. Building tech to bring people together IRL at <a href="http://www.meetup.com">Meetup</a>. Let’s chat about React, open-source || tech inclusion.🍿',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'monica@aboutmonica.com',
+      twitter: 'https://www.twitter.com/waterproofheart',
+      github: 'https://www.github.com/m0nica'
+      // rss: '#'
     }
   }
 };
