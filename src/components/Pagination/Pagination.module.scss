@@ -21,7 +21,7 @@
 
       &--disable {
         pointer-events: none;
-        color: rgba(148, 135, 150, 0.33);
+        color: $color-disabled-eggshell-color;
       }
 
     }
@@ -44,7 +44,7 @@
 
       &--disable {
         pointer-events: none;
-        color: rgba(148, 135, 150, 0.33);
+        color: $color-disabled-eggshell-color;
       }
 
     }
