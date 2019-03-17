@@ -3,12 +3,15 @@
  */
 
 // Colors
-$color-base: #222;
-$color-primary: #5D93FF;
-$color-secondary: #F7A046;
 
+$color-primary: #865a60;
+$color-secondary: #685f6e;
+$color-dark-purple: #47354a;
+$color-base: $color-dark-purple;
+$color-purple-eggshell: #efe9eb;
 $color-white: #FFF;
-$color-gray: lighten($color-base, 40%);
+$color-gray: #533f56;
+// $color-gray: lighten($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 

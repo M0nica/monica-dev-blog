@@ -4,6 +4,7 @@ import { Link } from 'gatsby';
 import styles from './Feed.module.scss';
 
 const Feed = ({ edges }) => (
+
   <div className={styles['feed']}>
     {edges.map((edge) => (
       <div className={styles['feed__item']} key={edge.node.fields.slug}>
