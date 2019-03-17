@@ -5,8 +5,8 @@ template: "post"
 draft: false
 slug:  4-meetups-that-helped-me-grow
 category: "resources"
-tags: [Terminal,Programming,Technology,Unix,Mac]
-description: "Using Twython Twitter API wrapper to add users to a Twitter List"
+tags: [Technology, Community]
+description: "Attending various tech Meetups over the years has been pivotal to my growth as a technologist"
 ---
 
 
