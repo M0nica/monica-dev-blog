@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Monica Powell',
     photo: '/monicaoncomputer.svg',
-    bio: 'Product engineer. Building tech to bring people together IRL at Meetup. Let’s chat about React, open-source || tech inclusion.🍿',
+    bio: 'Hi, I\'m Monica. I\'m a Full Stack Engineer, building tech to bring people together IRL at Meetup. Let’s chat about React, open-source || tech inclusion.🍿',
     contacts: {
       email: 'monica@aboutmonica.com',
       twitter: 'waterproofheart',
