@@ -10,9 +10,9 @@ exports[`Author renders correctly 1`] = `
     <img
       alt="test"
       className="author__photo"
-      height="75"
-      src="/monicaoncomputer.svg"
-      width="75"
+      height="200"
+      src="/photo.jpg"
+      width="200"
     />
   </Link>
   <h2
