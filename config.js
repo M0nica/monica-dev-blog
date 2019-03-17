@@ -26,11 +26,11 @@ module.exports = {
   author: {
     name: 'Monica Powell',
     photo: '/monicaoncomputer.svg',
-    bio: 'Product engineer. Building tech to bring people together IRL at <a href="http://www.meetup.com">Meetup</a>. Let’s chat about React, open-source || tech inclusion.🍿',
+    bio: 'Product engineer. Building tech to bring people together IRL at Meetup. Let’s chat about React, open-source || tech inclusion.🍿',
     contacts: {
       email: 'monica@aboutmonica.com',
-      twitter: 'https://www.twitter.com/waterproofheart',
-      github: 'https://www.github.com/m0nica'
+      twitter: 'waterproofheart',
+      github: 'm0nica'
       // rss: '#'
     }
   }
