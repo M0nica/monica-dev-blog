@@ -21,7 +21,7 @@
 
       &--disable {
         pointer-events: none;
-        color: lighten($color-gray, 20%);
+        color: rgba(148, 135, 150, 0.33);
       }
 
     }
@@ -44,7 +44,7 @@
 
       &--disable {
         pointer-events: none;
-        color: lighten($color-gray, 20%);
+        color: rgba(148, 135, 150, 0.33);
       }
 
     }
