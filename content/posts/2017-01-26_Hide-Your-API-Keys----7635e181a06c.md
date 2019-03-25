@@ -5,7 +5,7 @@ template: "post"
 draft: false
 slug:  hide-your-api-keys
 category: "tutorial"
-tags: [Python,API,Github,Application Development,Technology]
+tags: [Python,API,GitHub,Application Development,Technology]
 description: "If you plan on programming any applications and storing your code in a public GitHub repository then it is important that you protect your API keys 🔑 by ensuring that they are not searchable or…"
 ---
 
