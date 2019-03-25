@@ -1,11 +1,12 @@
 ---
-title: git is hard, but time travel in git is easy.
+title: "git is hard, but time travel in git is easy."
 date:  2019-03-24T02:43:13.595Z
-slug: git-time-travel
 template: "post"
+category: ""
 draft: false
-description: This article explains how it's possible to commit code that is dated in the future.
+slug: git-time-travel
 tags: [Git, GitHub] 
+description: "This article explains how it's possible to commit code that is dated in the future."
 ---
 
 ![monica dancing - in space?](/media/monicadancing.png)
@@ -25,7 +26,8 @@ If you want to intentionally for whatever reason commit something in the future,
 
 The following line: 
 ```
-GIT_AUTHOR_DATE="Wed Mar 27 15:12:30 2019 -0700” GIT_COMMITTER_DATE="Wed Mar 27 15:12:30 2019 -0700” git commit -m “future commit”
+GIT_AUTHOR_DATE="Wed Mar 27 15:12:30 2019 -0700 GIT_COMMITTER_DATE="Wed Mar 27 15:12:30 2019 -0700” 
+git commit -m “future commit”
 ```
  will date a commit as March 27, 2019 whether the current date is before or after March 27th. If you send in a patch to a project and one of the core members applies the patch, both of you get credit — you as the GIT_AUTHOR, and the core maintainer as the GIT_COMMITTER. 
 
