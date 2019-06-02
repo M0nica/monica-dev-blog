@@ -1,12 +1,12 @@
 ---
-title: "Grey’s Anatomy Lorem Ipsum Generator Tutorial with React and Netlify Functions"
+title: "Grey’s Anatomy Lorem Ipsum Generator Tutorial"
 date: 2019-06-02T11:43:13.595Z
 template: "post"
 category: ""
 draft: false
 slug: greys-anatomy-lorem-ipsum-generator
 tags: [Git, GitHub, Tutorial, React, Netlify]
-description: "This tutorial explains how to create a Lorem Ipsum generator in React with Netlify Functions"
+description: "This tutorial is going to walk through how to create a Grey’s Anatomy or other-themed Lorem Ipsum generator with React and Netlify Functions"
 ---
 
 ![screenshot of grey's anatomy lorem ipsum generator](media/lorem-ipsum-generator-screenshot.png)
@@ -26,7 +26,7 @@ The above paragraph makes absolutely no sense but if you’re familiar with Grey
 
 ## Requirements
 
-In order to get the most out of this tutorial you should:
+To get the most out of this tutorial you should:
 
 - Have familiarity with git and JavaScript
 - Have a GitHub or GitLab account (in order to use Netlify functions).
@@ -248,7 +248,7 @@ const fillerWords = [
 
 In a full blown project we would need a lot of words or else it will be too repetitive. If you want to create another type of themed Lorem Ipsum then you would replace the `greysAnatomyWords` with words from a theme of your choice.
 
-For the grey’s anatomy words I brainstormed and also found some lists like this [Grey’s Anatomy Baby Names article](https://www.sheknows.com/parenting/articles/1008783/greys-anatomy-baby-names/) that I was able to re-purpose. The process of cleaning up the data and formatting into valid JSON can be a bit tedious, I did find and replace for formatting where I could and some manually updating as needed. This allowed me to get as much data as possible with minimal effort (I.e., automating the scraping of terms). If I needed a larger data set then it may have made since to explore a tool like BeautifulSoup or Selenium to automate scraping a data source and saving that data into a valid JS file.
+For the grey’s anatomy words I brainstormed and also found some lists like this [Grey’s Anatomy Baby Names article](https://www.sheknows.com/parenting/articles/1008783/greys-anatomy-baby-names/) that I was able to re-purpose. The process of cleaning up the data and formatting into valid JSON can be a bit tedious, I did find and replace for formatting where I could and some manually updating as needed. This allowed me to get as much data as possible with minimal effort (I.e., automating the scraping of terms). I ended up with about 140 terms for my generator but if I needed a larger data set then it may have made sense to consider exploring a tool like BeautifulSoup or Selenium to automate scraping a data source and saving that data into a valid JS file.
 
 Note: Depending on how repetitive data is can create Map or filter to make sure that the array of words only has unique values.
 
