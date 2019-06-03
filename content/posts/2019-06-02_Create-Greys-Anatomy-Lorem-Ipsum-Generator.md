@@ -252,7 +252,9 @@ For the grey’s anatomy words I brainstormed and also found some lists like thi
 
 Note: Depending on how repetitive data is can create Map or filter to make sure that the array of words only has unique values.
 
-I decided to add in filler words so that the generated Lorem Ipsum text would have a healthy mix of verbs and adverbs in addition to the themed. I Google’d filler text and found the following repository, I copied the filler words from there: fillers_data.txt at master · words_fillers · GitHub[](https://github.com/words/fillers/blob/master/data.txt)
+I decided to add in filler words so that the generated Lorem Ipsum text would have a healthy mix of verbs and adverbs in addition to the themed. I Google’d filler text and found a repository where I copied the “filler words” from its [data.txt](https://github.com/words/fillers/blob/master/data.txt) file.
+
+
 
 Now if you run `yarn start:lambda` and visit `http://localhost:9000/generate-lorem-ipsum/`you should see 4 generated paragraphs of lorem ipsum returned. It should look something like:
 
@@ -270,7 +272,7 @@ This part of the tutorial is choose-your-own-adventure. After setting up the Lor
 
 ### Deploy
 
-Thanks to Netlify’s continuous deployment, if you clicked the “Deploy to Netlify” button on the first step then your website will be deployed to once you merge your changes into the master branch of your project’s repository. Also, if you open a pull request Netlify will generate a preview. This should mirror what you see when running the site locally.
+Thanks to Netlify’s continuous deployment, if you clicked the “Deploy to Netlify” button on the first step then your website will be deployed to Netlify once you merge your changes into the master branch of your project’s repository. Also, if you open a pull request Netlify will generate a preview. This should mirror what you see when running the site locally.
 
 The final code can be viewed on the `loremIpsumTutorial` branch of the [greys-anatomy-lorem-ipsum-generator](https://github.com/M0nica/greys-anatomy-lorem-ipsum-generator/tree/loremIpsumTutorial) repository.
 
