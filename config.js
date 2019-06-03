@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.monica.dev',
   title: 'monica.dev',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'A blog about Monica Powell\'s web development adventures',
   copyright: 'monica.dev © All rights reserved.',
   disqusShortname: '',
   postsPerPage: 5,
